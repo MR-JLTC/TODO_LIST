@@ -14,7 +14,7 @@ Efficient CLI-based to-do list manager.
  
  ## Installation Process
 
-To install the `GradeMaster` program, follow these steps:
+To install the `TODO_LIST` program, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
