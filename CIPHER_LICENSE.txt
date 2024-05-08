@@ -1,0 +1,25 @@
+Custom CLI Software License
+
+Copyright (c) 2023 John D' Cipher
+Version 1.0, [09/2/2023]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files, to use the Software for personal, educational,
+or non-commercial purposes, subject to the following conditions:
+
+You may freely use, modify, and distribute the Software for personal, educational, or
+non-commercial purposes. However, commercial distribution of the Software, which includes
+selling, licensing, or bundling the Software for profit, is strictly prohibited without the
+explicit written approval of the software author, John Cipher. Any redistributions of the Software
+must retain this license notice and all copyright notices contained in the Software.
+
+The Software is provided "as is," without warranty of any kind, express or implied, including
+but not limited to the warranties of merchantability, fitness for a particular purpose, and
+non-infringement. In no event shall the author or copyright holders be liable for any claim,
+damages, or other liability, whether in an action of contract, tort, or otherwise, arising from,
+out of, or in connection with the Software or the use or other dealings in the Software.
+
+By using, modifying, or distributing the Software, you agree to abide by the terms and conditions of this license.
+
+John Cipher
+https://github.com/JohnCipher777
